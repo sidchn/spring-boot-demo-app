@@ -2,7 +2,7 @@
 
 Simple SpringBoot Calculator Web App  
 
-## Running with Docker:
+## Running with docker-compose:
 ```bash
 docker-compose up
 ```
